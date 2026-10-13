@@ -1,0 +1,17 @@
+{
+  "name": "Scheda Ipertrofia",
+  "short_name": "Scheda",
+  "description": "Allenamenti, serie, carichi e timer di recupero",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101315",
+  "theme_color": "#15191b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
